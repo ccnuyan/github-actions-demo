@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "ES2017",
+      "module": "commonjs",
+      "lib": ["dom"],
+      "outDir": "dist",      
+      "moduleResolution": "node",
+      "baseUrl": ".",
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "resolveJsonModule": true
+    }
+  }
+  
